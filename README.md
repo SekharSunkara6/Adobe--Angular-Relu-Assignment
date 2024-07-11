@@ -2,12 +2,12 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/SekharSunkara6/Crypto-Price-Monitor.git
+    git clone https://github.com/SekharSunkara6/Adobe--Angular-Relu-Assignment.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Crypto-Price-Monitor
+    cd directory-name
     ```
 
 3. Install the required dependencies:
@@ -20,6 +20,10 @@
     ```
 
 ## Running the Application
+
+# It was an react based poject, so create react app in file repository.
+   By using this command: "npx create-react-app my-app"
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
