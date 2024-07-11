@@ -18,6 +18,9 @@
     ```bash
     yarn install
     ```
+4. To start the application in development mode:
+    ```bash
+    npm start
 
 ## Running the Application
 
